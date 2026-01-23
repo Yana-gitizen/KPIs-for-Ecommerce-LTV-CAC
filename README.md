@@ -2,9 +2,16 @@
 I helped a shopify store to calculate Lifetime Value (LTV) and Customer Acquisition Cost (CAC) to determine profitability, optimize marketing spend, and ensure sustainable growth. 
 A healthy LTV:CAC ratio (ideally 3:1) ensures that the revenue generated from a customer over time justifies the cost of acquiring them, preventing long-term financial loss. 
 In more depth this ratio can be found for different products categories. The following questions can be answered from this analysis:
+
 -Are we profitable on our first order, or do we rely on repeat purchases?
+
 -Is our current customer acquisition strategy sustainable? 
+
 -Which customer segments or products offer the best long-term return?
+
 -Are we spending the right amount to acquire customers?
+
 -Which marketing channels are driving the highest quality, most loyal customers?
+
 -Are we losing money by over-discounting to acquire customers?
+
