@@ -10,13 +10,26 @@ In more depth this ratio can be found for different products categories. The fol
 
 -Are we profitable on our first order, or do we rely on repeat purchases?
 
+My Answer: You are profitable on the first order, but margins are tightening.While you are still "in the black" after the first purchase, the declining margin suggests you are becoming increasingly dependent on repeat purchases (LTV) to maintain high profitability as CAC rises.
+
+
 -Is our current customer acquisition strategy sustainable? 
+
+My Answer: Caution is needed.The strategy is currently sustainable but showing signs of efficiency decay. If CAC continues to climb while the Average Order Value (AOV) stays flat, your "first-order" profitability will vanish, forcing a total reliance on retention.
 
 -Which customer segments or products offer the best long-term return?
 
+My Answer: Your early adopters were high-value; your recent scale-up is attracting "thinner" customers who repeat less often. The March 2026 Cohort is your "Gold Standard."
+
 -Are we spending the right amount to acquire customers?
+
+My Answer: While the ratio is good, the Contribution Margin 2 (Profit after all variables) is shrinking. You have room to spend, but the "quality" of the customers you are buying at higher prices is lower. You are spending more to get customers who buy less frequently than your original base.
 
 -Which marketing channels are driving the highest quality, most loyal customers?
 
+My Answer: We can see that as total spend increased (from $12.5k to $21k), the loyalty (orders per customer) decreased. This often happens when moving from high-intent "Search" ads to broader "Social" awareness ads. 
+
 -Are we losing money by over-discounting to acquire customers?
+
+My Answer: Not currently losing money, but discounting is aggressive.Since your CAC is rising, if you increase discounts to 15-20% to keep conversion rates high, you will likely flip to a negative Contribution Margin on the first order.
 
